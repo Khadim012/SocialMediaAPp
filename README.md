@@ -4,7 +4,7 @@
 
 - MVVM architecture 
 - Web-service with NSURLSession (Native).
-- I used Single class for single function for all apis request
+- I used Single class and single function for all apis request
 - Codable for parsing data.
 - I’m using single view for Home Screen posts listing and for comments screen listing.I reused the code.
 - all the function have single responsibility.
